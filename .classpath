@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="LinkedList"/>
+	<classpathentry kind="src" path="bst"/>
+	<classpathentry kind="src" path="Set"/>
+	<classpathentry kind="src" path="Map"/>
+	<classpathentry kind="src" path="MaxHeap"/>
+	<classpathentry kind="src" path="SegmentTree"/>
+	<classpathentry kind="src" path="Trie"/>
+	<classpathentry kind="src" path="Union_Find"/>
+	<classpathentry kind="src" path="AVLTree"/>
+	<classpathentry kind="src" path="RBTree"/>
+	<classpathentry kind="src" path="HashTable"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
